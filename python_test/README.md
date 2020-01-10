@@ -1,5 +1,5 @@
 
-* install nltk before trying to do any thing 
+* install nltk before trying to do something
 
 * launch analizetext.py 
 
